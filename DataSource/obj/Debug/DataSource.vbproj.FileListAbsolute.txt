@@ -1,0 +1,24 @@
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.exe.config
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.exe
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.pdb
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.xml
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.FrmMain.resources
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.Resources.resources
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbproj.GenerateResource.Cache
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.exe
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.xml
+c:\users\zou jin\documents\visual studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.pdb
+C:\Users\Zou Jin\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbproj.CoreCompileInputs.cache
+C:\Users\Zou Jin\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbprojAssemblyReference.cache
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.exe.config
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.exe
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.pdb
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\bin\Debug\DataSource.xml
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbprojAssemblyReference.cache
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.FrmMain.resources
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.Resources.resources
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbproj.GenerateResource.cache
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.vbproj.CoreCompileInputs.cache
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.exe
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.xml
+C:\Users\ZOUJI\Documents\Visual Studio 2017\Projects\DataSource\DataSource\obj\Debug\DataSource.pdb
